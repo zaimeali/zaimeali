@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://github.com/zaimeali/zaimeali/blob/main/coding.gif" alt="Coding Gif" width="48px" > <img src="https://github.com/zaimeali/zaimeali/blob/main/handwave.gif" alt="Hand Wave Gif" width="32px" >
 
-My name is Abdul Rafey Rizwan a.k.a Zaime Ali 👦 and I'm a Software Engineer 🎓💻. I'm from United States <img src="https://github.com/zaimeali/zaimeali/blob/main/united-states.png" alt="US Flag Icon" width="18px" > and live in Hartford. I have 2 years of experience as a Software Engineer 💼. I have graduated at 2020 with Bachelors in Software Engineering 🎓. 
+My name is Abdul Rafey Rizwan a.k.a Zaime Ali 👦 and I'm a Software Engineer 🎓💻. I'm from United States <img src="https://github.com/zaimeali/zaimeali/blob/main/united-states.png" alt="US Flag Icon" width="18px" >. I have 4 years of experience as a Software Engineer 💼. 
 
 You can find me on [<img src="https://github.com/zaimeali/zaimeali/blob/main/linkedin-logo.png" alt="Linkedin Icon" width="15px" >](https://www.linkedin.com/in/abdul-rafey-rizwan).
 
